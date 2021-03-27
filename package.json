@@ -1,6 +1,6 @@
 {
-  "homepage":"https://github.com/jbretondelacierva/portfolio.git" ,
-  "name": "infinite-webgl-gallery",
+"homepage": "http://jbretondelacierva.github.io/portfolio",
+  "name": "portfolio",
   "version": "1.0.0",
   "scripts": {
     "start": "npm run development",
